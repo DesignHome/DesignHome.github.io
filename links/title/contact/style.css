@@ -1,0 +1,93 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+    background: url(../../../images/background-01.jpg) no-repeat fixed 100%;
+    background-size: 1600px 750px;
+    background-position: top;
+}
+
+.back{
+	background-color: rgba(0, 0, 0, .25);
+	padding: 0 10px 0 10px;
+	margin-top: 1%;
+	margin-right: 65%;
+	float: right;
+	text-align: center;
+	border-right: 1px white solid;
+	border-left: 1px white solid;
+}
+
+.back p{
+	font-size: 30pt;
+	color: white;
+	font-family: 'Rajdhani', sans-serif;
+}
+
+.title{
+	border-radius: 10px 10px 0 0;
+	display: inline-block;
+	margin-left: 6%;
+	text-align: center;
+	background-color: #F4F4F4;
+}
+
+.about{
+	margin: 40px 30px 40px 30px;
+	font-family: 'Ubuntu Condensed', sans-serif;
+	font-size: 60pt;
+	color: #383636;
+}
+
+.main-title{
+	padding: 100px 20% 10% 8%;
+	background-color: #F4F4F4;
+}
+
+.main-title p{
+	font-size: 18pt;
+	font-family: 'Ubuntu Condensed', sans-serif;
+	color: #383636;
+}
+
+.main{
+	margin-top: 40%;
+}
+
+.info{
+    padding-top: 100px;
+    height: 200px;
+    background-color: #DEE1E2;
+}
+
+.info h9{
+    text-align: center;
+    color: #797A7A;
+}
+
+.mk{
+    text-align: center;
+}
+.mk h9{
+    font-size: 13pt;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.social img{
+    width: 50px;
+    height: 50px;
+}
+
+.social{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.anim2{
+    margin-right: 20px;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+}
